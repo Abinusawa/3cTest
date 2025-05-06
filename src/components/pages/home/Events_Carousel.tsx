@@ -3,11 +3,15 @@ import useEmblaCarousel from 'embla-carousel-react'
 import Autoplay from 'embla-carousel-autoplay'
 import { Link } from '@tanstack/react-router'
 import { useDotButton, DotButton } from './EmblaDotButton'
+// import { StaticImageData } from 'next/image'
 
 // Assets
 import CarouselImage1 from '@assets/events/evt1.jpg'
 import CarouselImage2 from '@assets/events/evt3.jpg'
 import CarouselImage3 from '@assets/events/evt2.jpg'
+
+
+
 
 const SLIDES: EmblaSlide[] = [
   {
@@ -15,18 +19,30 @@ const SLIDES: EmblaSlide[] = [
     subheader: 'What Zambia Data Privacy Means to You and Your Business.',
     link: '/resources/events',
     image: CarouselImage1,
+    paragraph: '',
+    buttonText: '',
+    background: '',
+    image_background: ''
   },
   {
     title: 'Data Privacy Webinar',
     subheader: 'Role of Employees in Safe guarding data Privacy',
     link: '/resources/events',
     image: CarouselImage2,
+    paragraph: '',
+    buttonText: '',
+    background: '',
+    image_background: ''
   },
   {
     title: 'Introduction To Data Privacy and Data Protection',
     subheader: 'The Essential best practices for your business',
     link: '/resources/events',
     image: CarouselImage3,
+    paragraph: '',
+    buttonText: '',
+    background: '',
+    image_background: ''
   },
 ]
 

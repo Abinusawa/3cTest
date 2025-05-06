@@ -4,7 +4,7 @@ import TriCore from '@assets/3C_Tricore.png'
 import Nigeria from '@assets/3CNew.png'
 import emailjs from '@emailjs/browser'
 import { toast } from 'sonner'
-import { isPlainObject } from '@tanstack/react-router'
+// import { isPlainObject } from '@tanstack/react-router'
 
 const ContactUs: React.FC = () => {
   const form = useRef<HTMLFormElement>(null)

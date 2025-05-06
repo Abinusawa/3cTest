@@ -1,4 +1,4 @@
-import FeatureIcon from '../../ui/featureicon';
+// import FeatureIcon from '../../ui/featureicon';
 // import MapChart from './presenceMap';
 
 
