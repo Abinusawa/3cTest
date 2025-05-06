@@ -28,7 +28,7 @@ const navItems: NavItem[] = [
       },
       // { label: 'Training', to: '/solutions/training' },
       { label: 'Cyber-Security', to: '/solutions/cyber-security' },
-      { label: 'AI Consulting' ,to: '/solutions/AI-consulting' },
+      { label: 'AI Governance & Solutioning' ,to: '/solutions/AI-consulting' },
       { label: 'Project Management', to: '/solutions/project-management' },
       { label: 'Technology Services', to: '/solutions/technology-services' },
       // { label: 'CDPO Training', to: '/solutions/cdpo-training' },

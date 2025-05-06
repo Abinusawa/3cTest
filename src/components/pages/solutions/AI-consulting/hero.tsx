@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
               </div>
             </div>
             <a href="#" className="ml-2 text-xs truncate">
-             AI-Consulting
+             AI - Governance & Solutioning
             </a>
             <svg
               className="ml-1 w-4 h-4"
@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
             </svg>
           </div>
           <h1 className="py-2 mb-6 text-5xl font-bold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-orange-200 md:text-4xl lg:text-6xl">
-          AI-Consulting Services
+          AI- Governance & Solutioning
           </h1>
           <p className="mb-12 text-2xl font-semibold text-orange-200 md:text-2xl">
             Our AI Audit service evaluates AI systems and third-party AI vendors for transparency, fairness, security, and compliance with global regulatory standards.

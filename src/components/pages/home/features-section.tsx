@@ -94,7 +94,7 @@ const Features: React.FC = () => {
             <div className="content-section">
               <div className="content-heading">
                 <h3 className="mb-5 text-2xl font-medium leading-5 text-gray-950">
-                  AI (Artificial Intelligence) Consulting
+                  AI (Artificial Intelligence) Governance & Solutioning
                 </h3>
                 <p className="leading-6 text-gray-700">
                   Driving Responsible & Compliant AI Adoption.

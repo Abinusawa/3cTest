@@ -9,7 +9,7 @@ export default function Overview() {
                 Overview
               </h5>
               <h2 className="text-2xl font-semibold leading-[1.2] mb-4 md:mb-5 text-gray-900 md:text-4xl ">
-                Are You Fully Protected Against Data Breaches?
+                Are You Fully Compliant with AI Regulations?
               </h2>
               <p className="text-lg text-gray-600 md:text-xl">
                 Ensure Compliance and Safeguard Your Business with Our Expert

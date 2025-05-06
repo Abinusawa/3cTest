@@ -1,6 +1,6 @@
 // import featImg1 from '@assets/Audit-amico 1.png'
 // import featImg2 from '@assets/Insurance-bro 1.png'
-import featImg3 from '@assets/skills.png'
+import featImg3 from '@assets/cosolidation.png'
 // import featImg4 from '@assets/consultancy.png'
 
 export default function Features() {

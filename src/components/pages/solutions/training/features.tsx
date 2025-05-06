@@ -1,4 +1,4 @@
-import featImg2 from '@assets/Insurance-bro 1.png'
+import featImg2 from '@assets/cyber_awareness.png'
 import featImg3 from '@assets/skills.png'
 import featImg4 from '@assets/consultancy.png'
 

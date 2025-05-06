@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import Hero from '@pages/solutions/AI-consulting/hero'
-// import Overview from '@pages/solutions/AI-consulting/overview'
+import Overview from '@pages/solutions/AI-consulting/overview'
 // import GetStarted from '@pages/solutions/AI-consulting/get-started'
 import Features from '@pages/solutions/AI-consulting/features'
 import WhyUs from '@pages/solutions/AI-consulting/why-us'
@@ -16,7 +16,7 @@ function DataProtection() {
     <div id="solutions" className="">
       <div className="relative z-10">
         <Hero />
-        {/* <Overview /> */}
+        <Overview />
         <br />
         <Features />
         {/* <GetStarted /> */}

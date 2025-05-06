@@ -1,5 +1,5 @@
 import featImg1 from '@assets/Audit-amico 1.png'
-import featImg2 from '@assets/Insurance-bro 1.png'
+import featImg2 from '@assets/Policy_dev.png'
 import featImg3 from '@assets/skills.png'
 import featImg4 from '@assets/consultancy.png'
 
@@ -26,7 +26,7 @@ export default function Features() {
                 src={featImg1}
                 alt=""
                 draggable="false"
-                className="mx-auto h-full w-full object-cover"
+                className="mx-auto h-[350px]  object-cover"
               />
             </div>
             <div className="content-section order-last h-fit w-full lg:order-first">
