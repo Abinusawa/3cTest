@@ -20,10 +20,10 @@ export default function EncryptionTestingAndValidation() {
 								Encryption Testing & Validation as a Service
 							</h5>
 							<h2 className="text-2xl font-semibold leading-tight mb-4 text-gray-900 md:text-3xl lg:text-4xl">
-								Encryption Testing & Validation as a Service
+								Secure What Matters Most. Validate Your Encryption with Confidence.
 							</h2>
 							<p className="mt-4 text-base text-gray-700 md:text-lg">
-								In an era of increasing cyber threats and stringent data protection regulations, encryption is a critical component of safeguarding sensitive information. 
+								As digital infrastructures grow more complex and regulatory pressures intensify, encryption has become a cornerstone of data protection. 3Consulting’s Encryption Testing and Validation service ensures your encryption practices are not only effective but also compliant with leading standards like NIST and FIPS.
 								
 							</p>
 						</div>

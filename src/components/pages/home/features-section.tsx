@@ -67,7 +67,8 @@ const Features: React.FC = () => {
                   </div>
                 </div>
               </div>
-              <a className="cursor-pointer font-medium text-amber-600 hover:text-amber-700">
+              <a 
+              className="cursor-pointer font-medium text-amber-600 hover:text-amber-700">
                 Learn more <i className="bi bi-arrow-right"></i>{' '}
               </a>
             </div>
@@ -267,7 +268,7 @@ const Features: React.FC = () => {
                   Cyber-Security Services
                 </h3>
                 <p className="leading-6 text-gray-700">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit, et, magnam repudiandae id nihil quaerat deserunt adipisci optio, incidunt quam iste.
+                  {/* Lorem ipsum, dolor sit amet consectetur adipsisicing elit. Reprehenderit, et, magnam repudiandae id nihil quaerat deserunt adipisci optio, incidunt quam iste. */}
                 </p>
               </div>
               <div className="feature-list mb-7 pl-2">

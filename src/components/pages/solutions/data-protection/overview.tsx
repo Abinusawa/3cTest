@@ -1,3 +1,5 @@
+
+
 export default function Overview() {
   return (
     <section id="overview" className="py-16 w-full bg-white lg:py-24">
@@ -15,6 +17,8 @@ export default function Overview() {
                 Ensure Compliance and Safeguard Your Business with Our Expert
                 Data Protection Solutions.
               </p>
+             
+
             </div>
             <div className="space-y-4 text-base text-gray-700 md:text-lg">
               <p>
@@ -22,7 +26,7 @@ export default function Overview() {
                 Protection services, ensuring that your organization complies
                 with the latest data privacy regulations while safeguarding
                 sensitive information. As a licensed Data Protection Compliance
-                Organization (DPCO) in Nigeria, we help businesses protect their
+                Organization (DPCO), we help businesses protect their
                 data assets, enhance customer trust, and avoid costly breaches.
               </p>
               <p>

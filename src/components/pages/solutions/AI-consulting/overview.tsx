@@ -11,15 +11,14 @@ export default function Overview() {
               <h2 className="text-2xl font-semibold leading-[1.2] mb-4 md:mb-5 text-gray-900 md:text-4xl ">
                 Are You Fully Compliant with AI Regulations?
               </h2>
-              <p className="text-lg text-gray-600 md:text-xl">
+              {/* <p className="text-lg text-gray-600 md:text-xl">
                 Ensure Compliance and Safeguard Your Business with Our Expert
                 Data Protection Solutions.
-              </p>
+              </p> */}
             </div>
             <div className="space-y-4 text-base text-gray-700 md:text-lg">
               <p>
-                At 3Consulting, we help organizations navigate the complexities of artificial intelligence through expert AI consulting. 
-                Whether you're adopting AI for the first time or optimizing existing AI systems, our solutions ensure compliance, ethical integrity, and operational efficiency.
+                Our AI Governance service helps organizations develop responsible, transparent, and compliant AI systems. We guide you through building ethical AI strategies, assessing risks, and aligning with global regulatory standards to ensure your AI solutions inspire trust and drive innovation.
               </p>
             </div>
           </div>

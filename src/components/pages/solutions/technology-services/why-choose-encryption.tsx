@@ -70,9 +70,9 @@ const WhyChooseEncryptionTandV: React.FC = () => {
 												Encryption Testing & Validation
 											</h3>
 										</div>
-										<p className="text-gray-700">
+										{/* <p className="text-gray-700">
 											At 3Consulting, we offer Encryption Testing & Validation as a Service, ensuring that your encryption mechanisms meet the highest security standards and compliance requirements.
-										</p>
+										</p> */}
 									</div>
 									<div className="image-section flex items-center justify-center w-1/2 ml-auto">
 									</div>
@@ -82,31 +82,39 @@ const WhyChooseEncryptionTandV: React.FC = () => {
 								<div className="title-subtitle w-full h-fit mb-6">
 									<h4 className=" font-semibold">What we offer</h4>
 									<p className="text-gray-700">
-										How our Encrpytion services can help protect your business.
+										We take a structured, end-to-end approach to encryption testing and validation, covering:
 									</p>
 								</div>
 								<div className="course-highlights grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
 									<div className="highlight flex ">
 										<i className="bi bi-check-circle text-2xl text-orange-600 mr-3"></i>
 										<p className="text-gray-700">
-											Key Generation & Validation
+											Cryptographic Inventory & Discovery
 										</p>
 									</div>
 									<div className="highlight flex ">
 										<i className="bi bi-check-circle text-2xl text-orange-600 mr-3"></i>
 										<p className="text-gray-700">
-											SSL/TLS Certificate Validation
+										Encryption Standards Validation
 										</p>
 									</div>
 									<div className="highlight flex ">
 										<i className="bi bi-check-circle text-2xl text-orange-600 mr-3"></i>
 										<p className="text-gray-700">
-											Encryption & Decryption Testing
+										Key Management Evaluation
 										</p>
 									</div>
 									<div className="highlight flex ">
 										<i className="bi bi-check-circle text-2xl text-orange-600 mr-3"></i>
-										<p className="text-gray-700">Brute-Force Resistance Testing</p>
+										<p className="text-gray-700">Encryption Penetration Testing</p>
+									</div>
+									<div className="highlight flex ">
+										<i className="bi bi-check-circle text-2xl text-orange-600 mr-3"></i>
+										<p className="text-gray-700">Testing & Validation Report</p>
+									</div>
+									<div className="highlight flex ">
+										<i className="bi bi-check-circle text-2xl text-orange-600 mr-3"></i>
+										<p className="text-gray-700">Implementation Guidance</p>
 									</div>
 								</div>
 							</div>

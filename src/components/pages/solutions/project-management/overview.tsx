@@ -18,7 +18,7 @@ export default function Overview() {
 						</div>
 						<div className="mt-8 space-y-4 text-base text-gray-700 md:text-lg">
 							<p>
-								At 3Consult, we provide Project Management & Outsourcing Services designed to help you execute projects efficiently while adhering to best practices and regulatory standards.
+								At 3Consulting, we provide Project Management & Outsourcing Services designed to help you execute projects efficiently while adhering to best practices and regulatory standards.
 							</p>
 							<p>
 								Our solutions blend expert management strategies with specialized outsourcing options, ensuring that you can focus on core operations while we handle the complexities of project execution and compliance.

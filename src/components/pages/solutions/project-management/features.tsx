@@ -12,7 +12,7 @@ export default function Features() {
 						Key Management Services
 					</p>
 					<h2 className='mb-4 text-3xl font-bold text-center text-gray-800'>
-						Maximize Efficiency and Drive Results with 3Consult's Expert Solutions
+						Maximize Efficiency and Drive Results with 3Consulting Project Management Expert Solutions
 					</h2>
 					<p className='text-lg text-center text-gray-600'>
 						We have already helped over 200+ businesses  to achieve remarkable result					</p>

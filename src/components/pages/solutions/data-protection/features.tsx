@@ -193,7 +193,7 @@ export default function Features() {
             <div className="content-section order-last h-fit w-full">
               <div className="content-heading">
                 <h3 className="mb-5 text-2xl font-medium leading-5 text-gray-950">
-                  Data Consulting Services
+                  Data Privacy and Protection Consulting 
                 </h3>
                 <p className="leading-6 text-gray-700">
                   Our Data Consulting Services cover a wide range of expertise

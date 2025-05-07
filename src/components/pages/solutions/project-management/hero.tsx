@@ -48,7 +48,7 @@ const Hero: React.FC = () => {
 						Project Management & Outsourcing Services
 					</h1>
 					<p className='mb-8 text-2xl font-semibold text-gray-600 md:text-4xl'>
-						Maximize Efficiency and Drive Results with 3Consult's Expert Solutions
+						Maximize Efficiency and Drive Results with 3Consulting Project Management Expert Solutions
 					</p>
 					<Button
 						as='link'

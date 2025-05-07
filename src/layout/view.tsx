@@ -3,6 +3,7 @@ import { Toaster } from 'sonner'
 import { useEffect } from 'react'
 import ReactGA from 'react-ga4'
 import NavBar from '@components/ui/nav-bar'
+import CookieBanner from '@components/ui/cookiebanner'
 
 // const TRACKING_ID = import.meta.env.VITE_GA_MEASUREMENT_ID as string
 
@@ -52,6 +53,7 @@ function View() {
       </div>
       <main className="flex-grow">
         <Outlet />
+        {/* <CookieBanner /> */}
       </main>
     </div>
   )

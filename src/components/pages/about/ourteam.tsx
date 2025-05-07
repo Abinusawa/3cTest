@@ -1,6 +1,6 @@
 import Ayo from '@assets/team/eso.jpg'
 import Lola from '@assets/team/lola.jpg'
-import Ifunaya from '@assets/team/ify.jpg'
+import Ifunanya from '@assets/team/ify.jpg'
 import Victor from '@assets/team/victor.jpg'
 import { Link } from '@tanstack/react-router'
 
@@ -89,14 +89,14 @@ const teamMembers = [
   {
     image: Ayo,
     name: 'Ayo Eso',
-    role: 'CEO, CIPM(IAPP).',
+    role: 'CEO, PH.D, CIPM(IAPP).',
     linkedin:
       'https://www.linkedin.com/in/ayomide-ayodele-cipp-e-cdpo-aa3537214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
   },
   {
-    image: Ifunaya,
-    name: 'Ifunaya Onyiriagwu',
-    role: 'CIPP/E(IAPP), CDPO(PECB).',
+    image: Ifunanya,
+    name: 'Ifunanya Onyiriagwu',
+    role: 'CIPP/E(IAPP), ISO/IEC 27035(Lead Incicent Response Manager),CDPO(PECB).',
     linkedin:
     'https://www.linkedin.com/in/ifunanya-onyiriagwu-cipp-e-981b17156',
   },

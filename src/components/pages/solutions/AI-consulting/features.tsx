@@ -1,5 +1,5 @@
 import featImg1 from '@assets/AI_audit2.png'
-import featImg2 from '@assets/AI_frame.png'
+import featImg2 from '@assets/AI_gov2.png'
 // import featImg3 from '@assets/skills.png'
 // import featImg4 from '@assets/consultancy.png'
 
@@ -9,7 +9,7 @@ export default function Features() {
       <div className="mx-auto max-w-7xl text-pretty px-5 md:px-6">
         <div id="feature-heading" className="mx-auto m-12 max-w-3xl">
           <p className=" text-[24px] underline text-center font-semibold text-amber-600">
-          Our AI- Governance & Solutioning services include:
+          Our AI Governance & Solutioning services include:
           </p>
           {/* <h2 className="mb-4 text-center text-3xl font-bold text-gray-800">
             Protect Your Business, Secure Your Future
@@ -37,8 +37,9 @@ export default function Features() {
                 <p className="leading-6 text-gray-700">
                   Ensuring Responsible and Compliant AI Deployment.
                 </p>
-                <p className="leading-6 text-gray-700">
-                  Our AI Audit service evaluates AI systems and third-party AI vendors for transparency, fairness, security, and compliance with global regulatory standards.
+
+                <p className="leading-6 pt-[5px] text-gray-700">
+                  Our AI Audit service provides a thorough assessment of your AI systems to ensure they are ethical, secure, and compliant with applicable laws and standards. We evaluate data practices, algorithmic fairness, transparency, and risk controls to help you build trustworthy and accountable AI solutions.
                 </p>
               </div>
               <div className="feature-list mb-7 pl-2">

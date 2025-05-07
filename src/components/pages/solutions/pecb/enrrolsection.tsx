@@ -1,6 +1,10 @@
 import FeatureIcon from '@components/ui/featureicon'
 import { Link } from '@tanstack/react-router'
 import pecbLogo from '@assets/pecb-logo.png'
+import ISMS_LA from '@assets/certifications/ISMS_LA.png'
+import ISMS_LI from '@assets/certifications/ISMS_LI.png'
+import PIMS_LA from '@assets/certifications/PIMS_LA.png'
+import PIMS_LI from '@assets/certifications/PIMS_LI.png'
 const EnrollPECB: React.FC = () => {
   return (
     <section id="Enroll-PECB" className="pb-12 lg:pb-16">
@@ -94,21 +98,21 @@ const EnrollPECB: React.FC = () => {
                         Open
                       </div>
                     </div>
-                    <p className="text-gray-700">
-                      Enroll today and take the next step in your career
-                    </p>
-                  </div>
-                  <div className="image-section ml-auto flex w-1/2 items-center justify-center mr-[10px]">
+                  <div className="image-section  flex w-1/2 items-center  mr-[10px]">
                     <img
                       src={pecbLogo}
                       alt="pecb-logo"
-                      className="flex h-full shrink grow-0"
+                      className="flex h-[100px] shrink grow-0"
                     />
                     {/* <img
                       src={pecbLogo}
                       alt="pecb-logo"
-                      className="flex h-full shrink grow-0"
+                      className="flex h-[100px] shrink grow-0"
                     /> */}
+                  </div>
+                    <p className="text-gray-700">
+                      Enroll today and take the next step in your career
+                    </p>
                   </div>
                 </div>
               </div>
@@ -270,9 +274,22 @@ const EnrollPECB: React.FC = () => {
                         ISO/IEC 27701 Lead Auditor & Lead Implementer Training (Self-Study and e-learning)
                       </h3>
                     </div>
+                    <div className="image-section  flex w-1/2 items-center  mr-[10px]">
+                    <img
+                      src={PIMS_LA}
+                      alt="PIMS_LA"
+                      className="flex h-[100px] shrink grow-0"
+                    />
+                    <img
+                      src={PIMS_LI}
+                      alt="PIMS_LI"
+                      className="flex h-[100px] shrink grow-0"
+                    />
+                    </div>
                     <p className="text-gray-700">
                       Contact us today to learn more
                     </p>
+                    
                   </div>
                 </div>
               </div>
@@ -433,6 +450,18 @@ const EnrollPECB: React.FC = () => {
                       <h3 className="mr-4 text-xl font-semibold">
                         ISO/IEC 27701 Lead Auditor & Lead Implementer Training (Self-Study and e-learning)
                       </h3>
+                    </div>
+                      <div className="image-section  flex w-1/2  mr-[10px]">
+                        <img
+                          src={ISMS_LA}
+                          alt="ISMS_LA"
+                          className="flex h-[100px] shrink grow-0"
+                        />
+                        <img
+                          src={ISMS_LI}
+                          alt="ISMS_LI"
+                          className="flex h-[100px] shrink grow-0"
+                        />
                     </div>
                     <p className="text-gray-700">
                       Contact us today to learn more

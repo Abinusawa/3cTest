@@ -1,5 +1,5 @@
 import React from "react";
-import heroImage from "@assets/solutions-data-protection.png";
+import heroImage from "@assets/cyberSecurity.png";
 import map from "@assets/Map.png";
 
 import Button from "@components/ui/button";

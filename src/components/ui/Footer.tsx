@@ -1,6 +1,4 @@
-// import logo from '@assets/3CNew.png'
-// import logo2 from '@assets/3consultzambia.png'
-// import logo3 from '@assets/3C_Tricore.png'
+
 import audit_trust from '@assets/3C-AuditTrust.png'
 // import Button from './button'
 import { Link } from '@tanstack/react-router'
@@ -9,32 +7,6 @@ const Footer: React.FC = () => {
   return (
     <footer className="bg-gray-50 py-12">
       <div className="mx-auto max-w-7xl px-5 md:px-8">
-        
-        {/* Removed Logos from other countries - to be added to contacts page !!!!! */}
-        {/* <div className="flex flex-col items-center justify-between  md:flex-row">
-            <div className="content flex w-full flex-col place-content-center items-center justify-center  lg:grid lg:grid-cols-3">
-              <Button
-                  to="/"
-                  as="link"
-                  className="order-first flex mx-auto mb-10 lg:order-none lg:mb-0 ">
-                    <img src={logo} alt="Logo" className="w-[100px]" />
-              </Button>
-                <Button
-                  to="/"
-                  as="link"
-                  className="order-first flex mx-auto mb-10 lg:order-none lg:mb-0 ">
-                    <img src={logo2} alt="Logo" className="h-[50px]" />
-                </Button>
-                <Button
-                  to="/"
-                  as="link"
-                  className="order-first flex mx-auto mb-10 lg:order-none lg:mb-0 ">
-                    <img src={logo3} alt="Logo" className="w-[100px]" />
-                </Button>
-                  
-            </div>
-        </div> */}
-        {/* <hr /> */}
         <div className='audit-trust mx-auto'>
                 <img src={audit_trust} alt="Logo" className="h-[150px] " />
             </div>
@@ -83,12 +55,10 @@ const Footer: React.FC = () => {
             
             <div className="footer-text">
               <p className="lg:text-right">
-                © {new Date().getFullYear()} 3consulting, All rights reserved.{' '}
-                <br />
                 <Link
                   to="/resources/privacy-policy"
                   className="text-nowrap italic text-orange-500"
-                >
+                  >
                   Privacy policy
                 </Link>
                 {', '}
@@ -98,6 +68,8 @@ const Footer: React.FC = () => {
                 >
                   Cookie policy
                 </Link>
+                <br />
+                  © {new Date().getFullYear()} 3consulting, All rights reserved.{' '}
               </p>
             </div>
           </div>

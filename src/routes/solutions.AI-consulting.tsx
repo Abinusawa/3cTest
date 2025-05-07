@@ -3,8 +3,9 @@ import Hero from '@pages/solutions/AI-consulting/hero'
 import Overview from '@pages/solutions/AI-consulting/overview'
 // import GetStarted from '@pages/solutions/AI-consulting/get-started'
 import Features from '@pages/solutions/AI-consulting/features'
-import WhyUs from '@pages/solutions/AI-consulting/why-us'
-
+// import WhyUs from '@pages/solutions/AI-consulting/why-us'
+import Contactus from '@components/pages/solutions/AI-consulting/contactus'
+import AI_GovCerts from '@components/pages/solutions/utilities/ai_GovCerts'
 import NewsLetter from '@components/ui/NewsLetter'
 import Footer from '@components/ui/Footer'
 export const Route = createFileRoute('/solutions/AI-consulting')({
@@ -21,8 +22,10 @@ function DataProtection() {
         <Features />
         {/* <GetStarted /> */}
         <br></br>
-        <WhyUs />
+        {/* <WhyUs /> */}
+        <AI_GovCerts />
         {/* <StartToday /> */}
+        <Contactus />
         <NewsLetter />
         <Footer />
       </div>

@@ -18,7 +18,12 @@ import Cert_Trainer from '@assets/certifications/Pecb_certifiedTrainer.png'
 import LIM from '@assets/certifications/lim.png'
 import PrivacyOps from '@assets/certifications/privacyops.png'
 import AI_GOV from '@assets/certifications/AI_Gov_Badge.svg'
-import POSTMAN from '@assets/certifications/postman.png'
+// import POSTMAN from '@assets/certifications/postman.png'
+import ISMS_LA from '@assets/certifications/ISMS_LA.png'
+import ISMS_LI from '@assets/certifications/ISMS_LI.png'
+// import PIMS_LA from '@assets/certifications/PIMS_LA.png'
+import PIMS_LI from '@assets/certifications/PIMS_LI.png'
+import IR from '@assets/certifications/Incident_response.png'
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
@@ -85,15 +90,27 @@ export const certs = [
     image: LIM,
   },
   {
+    name: 'PIMS_LI',
+    image: PIMS_LI,
+  },
+  {
+    name: 'ISMS_LI',
+    image: ISMS_LI,
+  },
+  {
+    name: 'IR',
+    image: IR,
+  },
+  {
+    name: 'ISMS_LA',
+    image: ISMS_LA,
+  },
+  {
     name: 'PrivacyOps',
     image: PrivacyOps,
   },
   {
     name: 'AI_GOV',
     image: AI_GOV,
-  },
-  {
-    name: 'POSTMAN',
-    image: POSTMAN,
   },
 ]

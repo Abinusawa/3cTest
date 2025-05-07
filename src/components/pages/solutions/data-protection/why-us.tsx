@@ -1,6 +1,7 @@
 import FeatureIcon from "@components/ui/featureicon";
 
 
+
 export default function WhyUs() {
 	return (
 		<section id='why-us' className='pb-12 w-full bg-white md:pb-24'>
@@ -55,14 +56,17 @@ export default function WhyUs() {
 									Global Compliance
 								</h4>
 								<p className='text-gray-700'>
-									Whether operating in Nigeria, Rwanda, or Zimbabwe, we ensure your organization is compliant with relevant data regulations.
+									Whether operating in Nigeria, Zambia, Zimbabwe, other African countries and United Kingdom (UK), we ensure your organization is compliant with relevant data regulations.
 								</p>
 							</div>
 						</div>
 
+
 					</div>
 				</div>
+				
 			</div>
+			
 		</section>
 	)
 }
